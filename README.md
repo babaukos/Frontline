@@ -1,5 +1,5 @@
 # Frontline
-![alt tag](https://github.com/babaukos/screenshots/blob/main/FrontlineTool.png, "Frontline Tool")
+![](https://github.com/babaukos/screenshots/blob/main/FrontlineTool.png, "Frontline Tool")
 This is a simple example for adding front line visualization
 ## Problems
 - In this example, points are recalculated in Update , which is not very good.
