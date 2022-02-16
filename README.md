@@ -1,5 +1,5 @@
 # Frontline
-<img src="https://github.com/babaukos/screenshots/blob/main/FrontlineTool.png" width="400" height="200"/>
+<img src="https://github.com/babaukos/screenshots/blob/main/FrontlineTool.png" width="400" height="200">
 This is a simple example for adding front line visualization
 
 ## Problems
